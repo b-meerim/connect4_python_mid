@@ -1,7 +1,7 @@
-# Connect4-Python
+# Connect4 in Python
 A game of Connect Four programmed using Python 3
 
-Description
+# Description
 
 This game is played on a vertical board wich has seven hollow columns and six rows. Each column has a hole in the upper part of the board, where pieces are introduced. There is a window for every square, so that pieces can be seen from both sides.
 
@@ -9,11 +9,11 @@ In short, it´s a vertical board with 42 windows distributed in 6 rows and 7 col
 
 Both players have a set of 21 thin pieces (like coins); each of them uses a different colour. The board is empty at the start of the game.
 
-Objective
+# Objective
 
 The aim for both players is to make a straight line of four own pieces; the line can be vertical, horizontal or diagonal.
 
-How the game goes on
+# How the game goes on
 
 Before starting, players decide randomly which of them will be the beginner; moves are made alternatively, one by turn.
 
